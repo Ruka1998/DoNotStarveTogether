@@ -1,4 +1,17 @@
 return {
+    ["workshop-1301033176"]={ configuration_options={ LANG="auto" }, enabled=true },
+    ["workshop-2881739960"]={
+      configuration_options={
+        BundleItems=false,
+        ChangeSkin=true,
+        Chest=true,
+        Digornot=false,
+        DragonflyChest=false,
+        Icebox=false,
+        SaltBox=false 
+      },
+      enabled=true 
+    },
     ["workshop-347079953"]={
       configuration_options={ DFV_Language="EN", DFV_MinimalMode="default" },
       enabled=true 
