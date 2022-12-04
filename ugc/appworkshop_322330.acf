@@ -1,0 +1,78 @@
+"AppWorkshop"
+{
+	"AppID"		"322330"
+	"SizeOnDisk"		"838400"
+	"NeedsUpdate"		"0"
+	"NeedsDownload"		"1"
+	"TimeLastUpdated"		"0"
+	"TimeLastAppRan"		"0"
+	"WorkshopItemsInstalled"
+	{
+		"378160973"
+		{
+			"size"		"609805"
+			"timeupdated"		"1654283265"
+			"manifest"		"7224692607925251387"
+		}
+		"666155465"
+		{
+			"size"		"194480"
+			"timeupdated"		"1641611120"
+			"manifest"		"4063964380958135644"
+		}
+		"2881739960"
+		{
+			"size"		"34115"
+			"timeupdated"		"1667083936"
+			"manifest"		"784833443155035711"
+		}
+	}
+	"WorkshopItemDetails"
+	{
+		"347079953"
+		{
+			"manifest"		"-1"
+			"ugchandle"		"529544281346802040"
+			"timeupdated"		"1458983225"
+			"timetouched"		"1670090384"
+			"BytesDownloaded"		"543712"
+			"BytesToDownload"		"271856"
+		}
+		"362175979"
+		{
+			"manifest"		"-1"
+			"ugchandle"		"609478105747897135"
+			"timeupdated"		"1454327710"
+			"timetouched"		"1670090384"
+			"BytesDownloaded"		"151606"
+			"BytesToDownload"		"75803"
+		}
+		"378160973"
+		{
+			"manifest"		"7224692607925251387"
+			"timeupdated"		"1654283265"
+			"timetouched"		"1670150032"
+		}
+		"666155465"
+		{
+			"manifest"		"4063964380958135644"
+			"timeupdated"		"1641611120"
+			"timetouched"		"1670150032"
+		}
+		"1301033176"
+		{
+			"manifest"		"-1"
+			"ugchandle"		"1264897305961511301"
+			"timeupdated"		"1592625285"
+			"timetouched"		"1670090384"
+			"BytesDownloaded"		"0"
+			"BytesToDownload"		"2855209"
+		}
+		"2881739960"
+		{
+			"manifest"		"784833443155035711"
+			"timeupdated"		"1667083936"
+			"timetouched"		"1670090384"
+		}
+	}
+}
