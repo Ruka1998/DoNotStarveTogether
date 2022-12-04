@@ -1,0 +1,6 @@
+[00:02:00]: [Join Announcement] Ruan
+[00:11:20]: [Vote Announcement] regenerate passed
+[00:11:41]: [Vote Announcement] regenerate passed
+[00:12:34]: [Leave Announcement] Ruan
+[00:13:19]: [Join Announcement] Ruan
+[00:23:29]: [Leave Announcement] Ruan

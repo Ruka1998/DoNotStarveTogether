@@ -1,0 +1,4 @@
+[00:03:51]: [Join Announcement] Ruan
+[00:04:21]: [Leave Announcement] Ruan
+[01:09:27]: [Join Announcement] Ruan
+[01:10:14]: [Leave Announcement] Ruan
