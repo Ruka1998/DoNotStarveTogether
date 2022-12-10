@@ -1,0 +1,415 @@
+[00:03:04]: [Join Announcement] Ruan
+[00:08:41]: [Leave Announcement] Ruan
+[00:20:46]: [Join Announcement] 1079756596
+[00:23:20]: [Leave Announcement] 1079756596
+[00:26:39]: [Join Announcement] 1079756596
+[00:32:45]: [Join Announcement] 艾克鲁普斯
+[00:35:58]: [Leave Announcement] 1079756596
+[00:38:30]: [Join Announcement] 1079756596
+[00:39:53]: [Leave Announcement] 1079756596
+[00:51:46]: [Skin Announcement] 艾克鲁普斯 body_winona_gladiator
+[00:52:57]: [Leave Announcement] 艾克鲁普斯
+[01:01:32]: [Join Announcement] 1079756596
+[01:03:03]: [Join Announcement] 风雨时兮
+[01:11:02]: [Join Announcement] 艾克鲁普斯
+[01:15:32]: [Say] (KU_QSHhEhXG) 风雨时兮:  我们拥有 2 个眼球伞 在这个 龙鳞宝箱, 这个拥有 100% 的耐久度。
+[01:16:34]: [Say] (KU_QSHhEhXG) 风雨时兮: 触手皮也可以顺便捡回来  好东西
+[01:17:12]: [Say] (KU_GNdCobCJ) 1079756596: 那东西沼泽一大堆
+[01:18:57]: [Say] (KU_QSHhEhXG) 风雨时兮: 你们会打克劳斯吗
+[01:19:26]: [Join Announcement] 1079756596
+[01:19:26]: [Say] (KU_qRBOnZFU) 艾克鲁普斯: no
+[01:22:00]: [Death Announcement] 1079756596 死亡，死因： 兔人。他变成了一个令人毛骨悚然的鬼！
+[01:25:23]: [Leave Announcement] 1079756596
+[01:26:01]: [Join Announcement] 1079756596
+[01:28:32]: [Leave Announcement] 1079756596
+[01:30:32]: [Join Announcement] 1079756596
+[01:32:13]: [Say] (KU_QSHhEhXG) 风雨时兮: 你是很卡吗
+[01:32:34]: [Say] (KU_qRBOnZFU) 艾克鲁普斯: 不卡
+[01:33:10]: [Say] (KU_QSHhEhXG) 风雨时兮: 我说这个威尔逊
+[01:33:23]: [Leave Announcement] 1079756596
+[01:35:56]: [Join Announcement] 1079756596
+[01:38:31]: [Leave Announcement] 1079756596
+[01:40:31]: [Join Announcement] 1079756596
+[01:40:45]: [Resurrect Announcement] 1079756596 复活自 Second Chance Watch.
+[01:44:08]: [Leave Announcement] 1079756596
+[01:44:35]: [Say] (KU_qRBOnZFU) 艾克鲁普斯: 用大鹅打克老师能行吗
+[01:45:03]: [Say] (KU_QSHhEhXG) 风雨时兮: 不行 鹿会死 会暴怒
+[01:53:19]: [Say] (KU_QSHhEhXG) 风雨时兮: 去月台
+[01:56:40]: [Say] (KU_QSHhEhXG) 风雨时兮: 守住
+[02:04:48]: [Say] (KU_QSHhEhXG) 风雨时兮:  我们拥有 40 个木头 在这个 箱子。
+[02:05:46]: [Say] (KU_QSHhEhXG) 风雨时兮: 这边也需放一点基础资源
+[02:06:53]: [Say] (KU_QSHhEhXG) 风雨时兮: 会打影怪不
+[02:07:21]: [Say] (KU_QSHhEhXG) 风雨时兮: 帮忙刷波燃料
+[02:07:50]: [Say] (KU_qRBOnZFU) 艾克鲁普斯: 我试试
+[02:07:57]: [Say] (KU_QSHhEhXG) 风雨时兮:  我拥有 117 个松果。
+[02:08:06]: [Say] (KU_QSHhEhXG) 风雨时兮: 稍等一下 我种下
+[02:08:41]: [Say] (KU_QSHhEhXG) 风雨时兮: 服了 青蛙雨
+[02:10:12]: [Say] (KU_QSHhEhXG) 风雨时兮: 来
+[02:10:47]: [Say] (KU_QSHhEhXG) 风雨时兮: 打我的影怪就行了
+[02:12:23]: [Say] (KU_QSHhEhXG) 风雨时兮: ctrl+F 强制攻击我的影怪
+[02:13:00]: [Say] (KU_QSHhEhXG) 风雨时兮:  (精神值: 0/200) 救命！这些阴影是真正的野兽，你要知道！
+[02:13:07]: [Say] (KU_QSHhEhXG) 风雨时兮: 这样我就不会回san
+[02:16:30]: [Say] (KU_QSHhEhXG) 风雨时兮: 可以了 多谢
+[02:17:29]: [Say] (KU_QSHhEhXG) 风雨时兮: 不用管了
+[02:18:01]: [Join Announcement] furry是最会偷袭的猫咪
+[02:19:07]: [Skin Announcement] 艾克鲁普斯 legs_pants_basic_brown_sepia
+[02:21:27]: [Say] (KU_qRBOnZFU) 艾克鲁普斯: 去个宽敞的地方打
+[02:23:21]: [Say] (KU_4R9OEa7U) furry是最会偷袭的猫咪: 武神的头盔还有莫
+[02:23:33]: [Say] (KU_QSHhEhXG) 风雨时兮: here
+[02:23:34]: [Say] (KU_qRBOnZFU) 艾克鲁普斯: 门旁边
+[02:29:46]: [Say] (KU_4R9OEa7U) furry是最会偷袭的猫咪: 猴子岛我记得在右边小月岛下一点
+[02:29:59]: [Say] (KU_QSHhEhXG) 风雨时兮: 那今天农场可以建完了
+[02:30:08]: [Say] (KU_QSHhEhXG) 风雨时兮: 香蕉冰自由
+[02:32:41]: [Say] (KU_4R9OEa7U) furry是最会偷袭的猫咪: 洗澡先
+[02:32:52]: [Leave Announcement] furry是最会偷袭的猫咪
+[02:34:23]: [Say] (KU_QSHhEhXG) 风雨时兮:  我们拥有 14 个烂电线 在这个 箱子。
+[02:34:41]: [Say] (KU_QSHhEhXG) 风雨时兮: 有空找诸王换下金子
+[02:40:51]: [Leave Announcement] 艾克鲁普斯
+[03:06:18]: [Join Announcement] 艾克鲁普斯
+[03:08:15]: [Leave Announcement] 艾克鲁普斯
+[03:22:37]: [Join Announcement] furry是最会偷袭的猫咪
+[03:23:09]: [Say] (KU_QSHhEhXG) 风雨时兮: 这里 正好放个骨灰盒
+[03:23:24]: [Say] (KU_QSHhEhXG) 风雨时兮:  我们拥有 2 个石砖 在这个 箱子。
+[03:23:26]: [Say] (KU_QSHhEhXG) 风雨时兮:  我们拥有 58 个灰烬 在这个 箱子。
+[03:24:25]: [Say] (KU_QSHhEhXG) 风雨时兮: 灭火器右边能放下吗 对应茶几
+[03:24:31]: [Say] (KU_4R9OEa7U) furry是最会偷袭的猫咪: 不能
+[03:24:42]: [Say] (KU_QSHhEhXG) 风雨时兮: 那就这边这个角也行
+[03:24:51]: [Say] (KU_4R9OEa7U) furry是最会偷袭的猫咪: 我站这里？
+[03:25:02]: [Say] (KU_QSHhEhXG) 风雨时兮: 你再看下这边
+[03:25:16]: [Say] (KU_4R9OEa7U) furry是最会偷袭的猫咪: 我站这里可以
+[03:25:45]: [Say] (KU_4R9OEa7U) furry是最会偷袭的猫咪: 我刚刚站的地方可以
+[03:26:04]: [Say] (KU_4R9OEa7U) furry是最会偷袭的猫咪: 放这里吗
+[03:26:10]: [Say] (KU_QSHhEhXG) 风雨时兮: 了解 和木牌一个体积
+[03:28:39]: [Say] (KU_QSHhEhXG) 风雨时兮: 这个木牌位置你看下
+[03:29:03]: [Say] (KU_4R9OEa7U) furry是最会偷袭的猫咪: 看啥
+[03:29:10]: [Say] (KU_QSHhEhXG) 风雨时兮: 骨灰盒
+[03:29:42]: [Say] (KU_4R9OEa7U) furry是最会偷袭的猫咪: 放木牌位置吗
+[03:29:45]: [Say] (KU_QSHhEhXG) 风雨时兮: 对
+[03:37:48]: [Say] (KU_4R9OEa7U) furry是最会偷袭的猫咪: 猴子房是不是也能做的
+[03:38:13]: [Say] (KU_QSHhEhXG) 风雨时兮: 这个我不太清楚了
+[03:57:40]: [Say] (KU_4R9OEa7U) furry是最会偷袭的猫咪: 我觉得我要寄
+[03:58:25]: [Say] (KU_QSHhEhXG) 风雨时兮: 怎么了
+[03:58:35]: [Say] (KU_QSHhEhXG) 风雨时兮: 要不要换恶魔人过去找你
+[04:01:59]: [Say] (KU_QSHhEhXG) 风雨时兮:  我们拥有 9 个噩梦燃料 在这个 切斯特。
+[04:02:39]: [Join Announcement] 艾克鲁普斯
+[04:07:12]: [Death Announcement] furry是最会偷袭的猫咪 死亡，死因： 过热。她变成了一个令人毛骨悚然的鬼！
+[04:09:11]: [Say] (KU_4R9OEa7U) furry是最会偷袭的猫咪: 猴子偷完东西进房子好像就清空了
+[04:09:56]: [Resurrect Announcement] furry是最会偷袭的猫咪 复活自 艾克鲁普斯.
+[04:10:08]: [Say] (KU_QSHhEhXG) 风雨时兮: 没开投票回档  尬住
+[04:11:49]: [Skin Announcement] furry是最会偷袭的猫咪 golden_farmhoe_invisible
+[04:12:03]: [Say] (KU_QSHhEhXG) 风雨时兮: 建议换恶魔人tp过去
+[04:16:31]: [Say] (KU_4R9OEa7U) furry是最会偷袭的猫咪: 还有一朵花呢
+[04:16:37]: [Say] (KU_QSHhEhXG) 风雨时兮:  我们拥有 1 个 阿比盖尔之花 在这个 箱子。
+[04:17:26]: [Say] (KU_4R9OEa7U) furry是最会偷袭的猫咪:  我需要 2 个硝石 来制造 吸热营火。
+[04:18:05]: [Say] (KU_QSHhEhXG) 风雨时兮: 居然开了自燃
+[04:18:54]: [Say] (KU_4R9OEa7U) furry是最会偷袭的猫咪:  我需要 2 个硝石 来制造 吸热营火。
+[04:18:59]: [Say] (KU_4R9OEa7U) furry是最会偷袭的猫咪: 没了莫
+[04:19:00]: [Say] (KU_QSHhEhXG) 风雨时兮:  我们拥有 28 个硝石 在这个 箱子。
+[04:19:56]: [Say] (KU_QSHhEhXG) 风雨时兮:  我们拥有 1 个 唤星者魔杖 在这个 龙鳞宝箱 拥有  5% 的耐久度。
+[04:19:58]: [Say] (KU_QSHhEhXG) 风雨时兮:  夏天還有12天。
+[04:22:16]: [Say] (KU_4R9OEa7U) furry是最会偷袭的猫咪: 猴子进房子清空的话 那我挖的香蕉不会绝版了吧
+[04:23:18]: [Say] (KU_QSHhEhXG) 风雨时兮: 先去月台升级一下 随后去那边看看
+[04:29:09]: [Death Announcement] 艾克鲁普斯 死亡，死因： 红色猎犬。她变成了一个令人毛骨悚然的鬼！
+[04:32:07]: [Resurrect Announcement] 艾克鲁普斯 复活自 天体传送门.
+[04:37:43]: [Say] (KU_QSHhEhXG) 风雨时兮:  我拥有 1 个 唤月者魔杖 拥有 100% 的耐久度。
+[04:42:36]: [Say] (KU_QSHhEhXG) 风雨时兮: 扇子呢
+[04:43:07]: [Death Announcement] furry是最会偷袭的猫咪 死亡，死因： 沙刺。她变成了一个令人毛骨悚然的鬼！
+[04:44:51]: [Resurrect Announcement] furry是最会偷袭的猫咪 复活自 天体传送门.
+[04:45:53]: [Leave Announcement] 艾克鲁普斯
+[04:47:34]: [Say] (KU_QSHhEhXG) 风雨时兮: 魔术箱子和影切 可以虚空传东西
+[04:48:12]: [Say] (KU_QSHhEhXG) 风雨时兮:  我拥有 1 个 眼骨。
+[04:48:29]: [Say] (KU_QSHhEhXG) 风雨时兮:  我拥有 17 个灵魂, 这个拥有 100% 的费用。
+[04:49:55]: [Join Announcement] 艾克鲁普斯
+[04:50:35]: [Say] (KU_QSHhEhXG) 风雨时兮: 等会帮我抓点活蝴蝶
+[04:51:17]: [Say] (KU_4R9OEa7U) furry是最会偷袭的猫咪: 地裂关了莫
+[04:51:49]: [Say] (KU_QSHhEhXG) 风雨时兮: 蚁狮死了吗
+[04:52:14]: [Say] (KU_4R9OEa7U) furry是最会偷袭的猫咪: 没打死
+[04:53:23]: [Say] (KU_QSHhEhXG) 风雨时兮:  我拥有 3 个猴尾草。
+[04:53:25]: [Say] (KU_QSHhEhXG) 风雨时兮:  我拥有 1 个 步行手杖。
+[04:53:39]: [Say] (KU_QSHhEhXG) 风雨时兮: 拿东西
+[04:53:50]: [Say] (KU_QSHhEhXG) 风雨时兮:  我们拥有 1 个 步行手杖 在这个 missing name。
+[04:54:42]: [Say] (KU_QSHhEhXG) 风雨时兮: 鸟笼旁边那个箱子
+[04:54:50]: [Say] (KU_QSHhEhXG) 风雨时兮: 把东西拿出去
+[04:55:26]: [Say] (KU_4R9OEa7U) furry是最会偷袭的猫咪: 猴岛有眼球伞吗
+[04:55:33]: [Say] (KU_QSHhEhXG) 风雨时兮:  我拥有 1 个 眼球伞 拥有 67% 的耐久度。
+[04:57:04]: [Say] (KU_QSHhEhXG) 风雨时兮: 没找着   估计是没了
+[04:57:22]: [Say] (KU_QSHhEhXG) 风雨时兮:  我们拥有 15 个香蕉丛 在这个 missing name。
+[04:57:32]: [Say] (KU_QSHhEhXG) 风雨时兮: 可能是被带破了
+[04:57:35]: [Skin Announcement] 艾克鲁普斯 feet_wickerbottom_ice1
+[04:58:50]: [Say] (KU_QSHhEhXG) 风雨时兮: 家里这不是有人嘛
+[04:59:09]: [Say] (KU_QSHhEhXG) 风雨时兮: 不用抓蝴蝶啦
+[05:08:51]: [Say] (KU_QSHhEhXG) 风雨时兮: 箱子清一下
+[05:15:15]: [Say] (KU_4R9OEa7U) furry是最会偷袭的猫咪: 不是捉了很多蝴蝶莫
+[05:15:42]: [Say] (KU_qRBOnZFU) 艾克鲁普斯: 冰箱
+[05:15:43]: [Say] (KU_QSHhEhXG) 风雨时兮: 他直接放了
+[05:25:26]: [Say] (KU_4R9OEa7U) furry是最会偷袭的猫咪: 你要生蝴蝶吗
+[05:25:30]: [Say] (KU_QSHhEhXG) 风雨时兮: 不用
+[05:25:38]: [Say] (KU_QSHhEhXG) 风雨时兮: 可以种花
+[05:26:16]: [Say] (KU_QSHhEhXG) 风雨时兮: 可惜没有打包带
+[05:29:54]: [Leave Announcement] 艾克鲁普斯
+[05:30:37]: [Say] (KU_4R9OEa7U) furry是最会偷袭的猫咪: 哦 我好像不用种那么多
+[05:30:52]: [Say] (KU_QSHhEhXG) 风雨时兮: hhhh
+[05:31:08]: [Say] (KU_4R9OEa7U) furry是最会偷袭的猫咪: 附近人越多 一个花刷新速度也很快
+[05:31:18]: [Say] (KU_QSHhEhXG) 风雨时兮: 对 按人数刷新的
+[05:31:50]: [Say] (KU_QSHhEhXG) 风雨时兮: 来帮忙把草和树枝全铲了
+[05:37:52]: [Say] (KU_4R9OEa7U) furry是最会偷袭的猫咪: 格罗姆呢
+[05:38:00]: [Say] (KU_QSHhEhXG) 风雨时兮: 八成是死了
+[05:44:05]: [Say] (KU_4R9OEa7U) furry是最会偷袭的猫咪: 提灯呢
+[05:51:31]: [Say] (KU_QSHhEhXG) 风雨时兮:  我拥有 1 个 香蕉 拥有 100% 的新鲜度。
+[05:52:50]: [Say] (KU_QSHhEhXG) 风雨时兮:  我拥有 1 个 香蕉冻 拥有 96% 的新鲜度。
+[05:54:22]: [Say] (KU_QSHhEhXG) 风雨时兮: 腐烂食物居然用完了hhhh
+[05:56:46]: [Say] (KU_QSHhEhXG) 风雨时兮:  秋天還有20天。
+[06:00:07]: [Say] (KU_QSHhEhXG) 风雨时兮:  我们拥有 120 个犬牙 在这个 箱子。
+[06:00:10]: [Say] (KU_QSHhEhXG) 风雨时兮:  我们拥有 60 个采下的草 在这个 箱子。
+[06:07:58]: [Leave Announcement] furry是最会偷袭的猫咪
+[06:20:35]: [Leave Announcement] 风雨时兮
+[07:16:54]: [Join Announcement] 1079756596
+[07:23:40]: [Death Announcement] 1079756596 死亡，死因： 熊獾。他变成了一个令人毛骨悚然的鬼！
+[07:23:56]: [Resurrect Announcement] 1079756596 复活自 天体传送门.
+[07:30:18]: [Death Announcement] 1079756596 死亡，死因： 红色猎犬。他变成了一个令人毛骨悚然的鬼！
+[07:32:07]: [Resurrect Announcement] 1079756596 复活自 天体传送门.
+[10:12:57]: [Death Announcement] 1079756596 死亡，死因： 黑暗。他变成了一个令人毛骨悚然的鬼！
+[10:14:08]: [Resurrect Announcement] 1079756596 复活自 天体传送门.
+[10:16:11]: [Death Announcement] 1079756596 死亡，死因： 独眼巨鹿。他变成了一个令人毛骨悚然的鬼！
+[10:16:20]: [Resurrect Announcement] 1079756596 复活自 天体传送门.
+[10:19:28]: [Death Announcement] 1079756596 死亡，死因： 黑暗。他变成了一个令人毛骨悚然的鬼！
+[10:22:08]: [Resurrect Announcement] 1079756596 复活自 天体传送门.
+[10:55:05]: [Death Announcement] 1079756596 死亡，死因： 独眼巨鹿。他变成了一个令人毛骨悚然的鬼！
+[10:56:11]: [Resurrect Announcement] 1079756596 复活自 天体传送门.
+[11:16:09]: [Join Announcement] while
+[11:21:20]: [Say] (KU_GNdCobCJ) 1079756596: 狗
+[11:29:38]: [Say] (KU_GNdCobCJ) 1079756596: 我去沼泽找尖刺
+[11:30:57]: [Say] (KU_GNdCobCJ) 1079756596: 完全不用打的
+[11:44:08]: [Say] (KU_9ZDxI6MF) while: 二本没啦？
+[11:44:23]: [Say] (KU_GNdCobCJ) 1079756596: 好像书架就是二本
+[11:44:27]: [Say] (KU_9ZDxI6MF) while: 原来是这样
+[11:48:27]: [Say] (KU_GNdCobCJ) 1079756596: 猴尾是不是能催熟啊？
+[11:48:43]: [Say] (KU_9ZDxI6MF) while: 没见过..
+[11:51:49]: [Leave Announcement] while
+[12:02:06]: [Leave Announcement] 1079756596
+[14:16:37]: [Join Announcement] 艾克鲁普斯
+[14:35:33]: [Leave Announcement] 艾克鲁普斯
+[15:15:19]: [Join Announcement] 风雨时兮
+[15:48:49]: [Leave Announcement] 风雨时兮
+[16:05:54]: [Join Announcement] 风雨时兮
+[16:10:23]: [Join Announcement] 艾克鲁普斯
+[16:17:20]: [Skin Announcement] 艾克鲁普斯 feet_walter_formal
+[16:20:21]: [Leave Announcement] 艾克鲁普斯
+[16:23:34]: [Leave Announcement] 风雨时兮
+[16:29:26]: [Join Announcement] 艾克鲁普斯
+[16:33:22]: [Leave Announcement] 艾克鲁普斯
+[16:44:46]: [Join Announcement] 艾克鲁普斯
+[17:05:52]: [Death Announcement] 艾克鲁普斯 死亡，死因： 树精守卫。她变成了一个令人毛骨悚然的鬼！
+[17:06:06]: [Resurrect Announcement] 艾克鲁普斯 复活自 天体传送门.
+[17:44:49]: [Leave Announcement] 艾克鲁普斯
+[17:50:47]: [Join Announcement] 艾克鲁普斯
+[17:51:20]: [Death Announcement] 艾克鲁普斯 死亡，死因： 火。她变成了一个令人毛骨悚然的鬼！
+[17:51:30]: [Resurrect Announcement] 艾克鲁普斯 复活自 天体传送门.
+[17:52:00]: [Death Announcement] 艾克鲁普斯 死亡，死因： 火。她变成了一个令人毛骨悚然的鬼！
+[17:52:13]: [Resurrect Announcement] 艾克鲁普斯 复活自 天体传送门.
+[18:12:55]: [Death Announcement] 艾克鲁普斯 死亡，死因： 黑暗。她变成了一个令人毛骨悚然的鬼！
+[18:15:19]: [Resurrect Announcement] 艾克鲁普斯 复活自 天体传送门.
+[18:40:05]: [Skin Announcement] 艾克鲁普斯 feet_willow_dowdy
+[18:42:56]: [Death Announcement] 艾克鲁普斯 死亡，死因： 红色猎犬。她变成了一个令人毛骨悚然的鬼！
+[18:47:27]: [Resurrect Announcement] 艾克鲁普斯 复活自 天体传送门.
+[18:48:28]: [Death Announcement] 艾克鲁普斯 死亡，死因： 猎犬。她变成了一个令人毛骨悚然的鬼！
+[18:49:23]: [Resurrect Announcement] 艾克鲁普斯 复活自 天体传送门.
+[18:55:47]: [Leave Announcement] 艾克鲁普斯
+[20:13:27]: [Join Announcement] 风雨时兮
+[20:22:06]: [Leave Announcement] 风雨时兮
+[20:25:15]: [Join Announcement] 风雨时兮
+[20:27:39]: [Leave Announcement] 风雨时兮
+[00:21:02]: [Join Announcement] 1079756596
+[01:45:06]: [Leave Announcement] 1079756596
+[01:47:45]: [Join Announcement] 1079756596
+[02:17:00]: [Join Announcement] furry是最会偷袭的猫咪
+[02:21:51]: [Join Announcement] 风雨时兮
+[02:22:54]: [Say] (KU_QSHhEhXG) 风雨时兮: 有探到无花果树吗
+[02:23:01]: [Say] (KU_GNdCobCJ) 1079756596: 没
+[02:23:06]: [Say] (KU_4R9OEa7U) furry是最会偷袭的猫咪: 左上角
+[02:23:31]: [Say] (KU_4R9OEa7U) furry是最会偷袭的猫咪: 能看到地图的图标吗
+[02:23:44]: [Say] (KU_QSHhEhXG) 风雨时兮: 1
+[02:24:32]: [Say] (KU_4R9OEa7U) furry是最会偷袭的猫咪: 换人物要丢东西吗
+[02:24:47]: [Say] (KU_QSHhEhXG) 风雨时兮: 不会 原地掉落
+[02:26:27]: [Say] (KU_QSHhEhXG) 风雨时兮:  我们拥有 1 个 园艺学简编版 在这个 书架 拥有 100% 的耐久度。
+[02:26:53]: [Say] (KU_QSHhEhXG) 风雨时兮: 老麦现在读老奶奶书消耗2.5 倍 两下就出影怪了
+[02:36:34]: [Say] (KU_GNdCobCJ) 1079756596: 绿蘑菇种上了
+[02:37:45]: [Say] (KU_QSHhEhXG) 风雨时兮: 你有夹夹绞盘吗
+[02:38:04]: [Say] (KU_QSHhEhXG) 风雨时兮: 我还在奶奶岛
+[02:38:13]: [Say] (KU_QSHhEhXG) 风雨时兮: 找奶奶岛
+[02:38:31]: [Say] (KU_4R9OEa7U) furry是最会偷袭的猫咪: 地图不是有奶奶岛莫
+[02:38:59]: [Say] (KU_QSHhEhXG) 风雨时兮: 我后进来的  没图hhhh
+[02:39:05]: [Say] (KU_4R9OEa7U) furry是最会偷袭的猫咪: 无花果树需要干嘛
+[02:39:31]: [Say] (KU_QSHhEhXG) 风雨时兮: 开船撞他 会掉种子
+[02:39:44]: [Say] (KU_QSHhEhXG) 风雨时兮: 然后拿回家种水里
+[02:42:12]: [Say] (KU_QSHhEhXG) 风雨时兮: 标一下奶奶岛位置 我去拿绞盘蓝图
+[02:43:17]: [Say] (KU_4R9OEa7U) furry是最会偷袭的猫咪: 标了
+[02:43:31]: [Say] (KU_QSHhEhXG) 风雨时兮: ok
+[02:45:04]: [Say] (KU_4R9OEa7U) furry是最会偷袭的猫咪: 划船好像撞不掉下来
+[02:45:54]: [Death Announcement] 风雨时兮 死亡，死因： 爬行的恐惧。他变成了一个令人毛骨悚然的鬼！
+[02:46:29]: [Resurrect Announcement] 风雨时兮 复活自 肉块雕像.
+[02:48:58]: [Leave Announcement] 1079756596
+[02:55:56]: [Say] (KU_QSHhEhXG) 风雨时兮: 还得是小恶魔
+[02:59:10]: [Say] (KU_QSHhEhXG) 风雨时兮:  我需要 1 石砖 来制造 夹夹绞盘。
+[02:59:11]: [Say] (KU_QSHhEhXG) 风雨时兮:  我需要 2 个木板 来制造 夹夹绞盘。
+[02:59:12]: [Say] (KU_QSHhEhXG) 风雨时兮:  我需要 2 个绳子 来制造 夹夹绞盘。
+[02:59:25]: [Say] (KU_QSHhEhXG) 风雨时兮: 坏了 那家伙下线了
+[02:59:43]: [Say] (KU_4R9OEa7U) furry是最会偷袭的猫咪: 我有
+[02:59:47]: [Say] (KU_QSHhEhXG) 风雨时兮: 那我还得回去拿下材料
+[03:01:43]: [Say] (KU_QSHhEhXG) 风雨时兮: 无花果有几个
+[03:03:20]: [Say] (KU_4R9OEa7U) furry是最会偷袭的猫咪: 没了
+[03:03:43]: [Say] (KU_QSHhEhXG) 风雨时兮:  我拥有 1 个 无花果 拥有 96% 的新鲜度。
+[03:07:29]: [Say] (KU_QSHhEhXG) 风雨时兮:  我拥有 8 个无花果, 这个拥有 95% 的新鲜度。
+[03:07:45]: [Say] (KU_4R9OEa7U) furry是最会偷袭的猫咪:  我拥有 4 个无花果, 这个拥有 48% 的新鲜度。
+[03:07:54]: [Say] (KU_QSHhEhXG) 风雨时兮: 撤
+[03:10:39]: [Say] (KU_QSHhEhXG) 风雨时兮: 我去换沃尔特了
+[03:16:06]: [Say] (KU_QSHhEhXG) 风雨时兮:  我需要 2 个无花果 来制造 树果酱。
+[03:16:42]: [Say] (KU_QSHhEhXG) 风雨时兮:  我可以制作 1 个树果酱。
+[03:16:55]: [Say] (KU_QSHhEhXG) 风雨时兮: 种植栏
+[03:29:51]: [Join Announcement] 艾克鲁普斯
+[03:31:46]: [Say] (KU_QSHhEhXG) 风雨时兮: 居然换了鱼妹
+[03:32:29]: [Say] (KU_qRBOnZFU) 艾克鲁普斯: 没怎么玩过，试试
+[03:36:28]: [Say] (KU_QSHhEhXG) 风雨时兮: 第三个雕像在哪压
+[03:38:47]: [Say] (KU_4R9OEa7U) furry是最会偷袭的猫咪: 左下森林和沼泽
+[03:39:18]: [Say] (KU_QSHhEhXG) 风雨时兮: ok
+[03:40:13]: [Say] (KU_QSHhEhXG) 风雨时兮:  秋天還有1天。
+[03:40:29]: [Say] (KU_QSHhEhXG) 风雨时兮:  冬天還有15天。
+[03:42:42]: [Say] (KU_QSHhEhXG) 风雨时兮: 真是海象平原，这图牛的
+[03:43:34]: [Say] (KU_qRBOnZFU) 艾克鲁普斯: 海带在海里哪呢
+[03:47:56]: [Say] (KU_4R9OEa7U) furry是最会偷袭的猫咪:  我拥有 20 个格罗姆的黏液。
+[03:48:20]: [Say] (KU_4R9OEa7U) furry是最会偷袭的猫咪: 不捡也能刷那么多出来
+[03:49:58]: [Say] (KU_QSHhEhXG) 风雨时兮:  我拥有 1 个 海象牙。
+[03:50:11]: [Say] (KU_QSHhEhXG) 风雨时兮: "顺便"
+[03:51:26]: [Death Announcement] 风雨时兮 死亡，死因： 严寒。他变成了一个令人毛骨悚然的鬼！
+[03:51:29]: [Leave Announcement] 风雨时兮
+[03:52:05]: [Join Announcement] 风雨时兮
+[03:54:35]: [Resurrect Announcement] 风雨时兮 复活自 天体传送门.
+[04:02:20]: [Death Announcement] 风雨时兮 死亡，死因： 黑暗。他变成了一个令人毛骨悚然的鬼！
+[04:03:02]: [Resurrect Announcement] 风雨时兮 复活自 天体传送门.
+[04:13:51]: [Say] (KU_qRBOnZFU) 艾克鲁普斯: 海象
+[04:21:21]: [Death Announcement] 艾克鲁普斯 死亡，死因： 猪人。她变成了一个令人毛骨悚然的鬼！
+[04:23:46]: [Resurrect Announcement] 艾克鲁普斯 复活自 天体传送门.
+[04:29:10]: [Death Announcement] furry是最会偷袭的猫咪 死亡，死因： 爬行的恐惧。他变成了一个令人毛骨悚然的鬼！
+[04:29:21]: [Resurrect Announcement] furry是最会偷袭的猫咪 复活自 天体传送门.
+[04:29:54]: [Say] (KU_QSHhEhXG) 风雨时兮: 仆人5个最好 6个会一直出影怪
+[04:30:15]: [Say] (KU_4R9OEa7U) furry是最会偷袭的猫咪: 我带梦魇护符打
+[04:30:24]: [Say] (KU_QSHhEhXG) 风雨时兮: 刷燃料啊 那没事了
+[04:30:27]: [Say] (KU_4R9OEa7U) furry是最会偷袭的猫咪: 还是旺达刷好
+[04:43:00]: [Say] (KU_QSHhEhXG) 风雨时兮:  我们拥有 28 个荧光果 在这个 冰箱, 这个拥有 95% 的新鲜度。
+[04:44:33]: [Death Announcement] 艾克鲁普斯 死亡，死因： 爬行的恐惧。她变成了一个令人毛骨悚然的鬼！
+[04:44:44]: [Resurrect Announcement] 艾克鲁普斯 复活自 天体传送门.
+[04:45:26]: [Say] (KU_QSHhEhXG) 风雨时兮: 控火书不见了
+[04:53:05]: [Say] (KU_QSHhEhXG) 风雨时兮: w我记得中间由此改了
+[04:54:34]: [Say] (KU_QSHhEhXG) 风雨时兮:  我们拥有 2 个火焰笔 在这个 箱子, 这个拥有 95% 的耐久度。
+[04:55:02]: [Say] (KU_QSHhEhXG) 风雨时兮: 现在可以成组地炸
+[04:55:19]: [Say] (KU_QSHhEhXG) 风雨时兮: 不过有上限
+[05:03:58]: [Death Announcement] 艾克鲁普斯 死亡，死因： 鱼人。她变成了一个令人毛骨悚然的鬼！
+[05:04:54]: [Resurrect Announcement] 艾克鲁普斯 复活自 天体传送门.
+[05:05:09]: [Say] (KU_QSHhEhXG) 风雨时兮:  我拥有 1 个 琥珀美食。
+[05:06:39]: [Say] (KU_4R9OEa7U) furry是最会偷袭的猫咪: 解密我还没弄
+[05:06:46]: [Say] (KU_QSHhEhXG) 风雨时兮:  我拥有 1 个 彩虹宝石。
+[05:06:51]: [Say] (KU_QSHhEhXG) 风雨时兮: 来偷宝石
+[05:09:02]: [Death Announcement] furry是最会偷袭的猫咪 死亡，死因： 深渊蠕虫。他变成了一个令人毛骨悚然的鬼！
+[05:09:16]: [Say] (KU_QSHhEhXG) 风雨时兮: 我刚上来
+[05:09:23]: [Say] (KU_QSHhEhXG) 风雨时兮: 哪个洞口
+[05:10:05]: [Say] (KU_4R9OEa7U) furry是最会偷袭的猫咪: ...再吃东西 下洞就是一个虫
+[05:10:46]: [Say] (KU_QSHhEhXG) 风雨时兮: 太真实了 估计刷了虫跑了 刚好一麦
+[05:11:19]: [Resurrect Announcement] furry是最会偷袭的猫咪 复活自 天体传送门.
+[05:15:13]: [Say] (KU_QSHhEhXG) 风雨时兮: 大魔法师已上线
+[05:18:22]: [Say] (KU_QSHhEhXG) 风雨时兮:  我需要 2 个月蛾翅膀 来制造 月之魔典。
+[05:19:17]: [Say] (KU_QSHhEhXG) 风雨时兮: 月岛也帮忙标一下
+[05:31:14]: [Leave Announcement] 艾克鲁普斯
+[05:35:13]: [Say] (KU_4R9OEa7U) furry是最会偷袭的猫咪: 打帝王蟹吗
+[05:35:39]: [Say] (KU_QSHhEhXG) 风雨时兮: 怎么打法
+[05:36:33]: [Say] (KU_QSHhEhXG) 风雨时兮:  我们拥有 1 个 养蜂笔记 在这个 书架 拥有 100% 的耐久度。
+[05:36:54]: [Say] (KU_QSHhEhXG) 风雨时兮:  我拥有 1 个 月之魔典 拥有 100% 的耐久度。
+[05:36:56]: [Say] (KU_4R9OEa7U) furry是最会偷袭的猫咪: 优先打小怪 然后施法冻住就行了
+[05:38:35]: [Say] (KU_QSHhEhXG) 风雨时兮: 老奶奶有一种非常赖皮的办法 招一堆密封
+[05:39:46]: [Say] (KU_QSHhEhXG) 风雨时兮: 等这树长大我准备下了 帝王蟹得做点准备
+[05:40:03]: [Say] (KU_QSHhEhXG) 风雨时兮: 倒是可以刷格罗姆了
+[05:40:51]: [Say] (KU_QSHhEhXG) 风雨时兮: 巨鹿
+[05:41:38]: [Death Announcement] furry是最会偷袭的猫咪 死亡，死因： 坎普斯。他变成了一个令人毛骨悚然的鬼！
+[05:41:48]: [Resurrect Announcement] furry是最会偷袭的猫咪 复活自 天体传送门.
+[05:44:48]: [Death Announcement] 风雨时兮 死亡，死因： 严寒。她变成了一个令人毛骨悚然的鬼！
+[05:44:55]: [Resurrect Announcement] 风雨时兮 复活自 天体传送门.
+[05:45:04]: [Death Announcement] furry是最会偷袭的猫咪 死亡，死因： 严寒。他变成了一个令人毛骨悚然的鬼！
+[05:45:10]: [Resurrect Announcement] furry是最会偷袭的猫咪 复活自 天体传送门.
+[05:47:44]: [Say] (KU_QSHhEhXG) 风雨时兮:  我做好了 1 个营火 准备建造。
+[05:48:59]: [Say] (KU_QSHhEhXG) 风雨时兮: 来看树
+[05:49:26]: [Say] (KU_QSHhEhXG) 风雨时兮: 三朵花之后就可以变大了
+[06:02:56]: [Say] (KU_4R9OEa7U) furry是最会偷袭的猫咪: 今天看到个刷小偷背包的工厂
+[06:03:07]: [Say] (KU_QSHhEhXG) 风雨时兮: 哪种
+[06:03:13]: [Say] (KU_4R9OEa7U) furry是最会偷袭的猫咪: 鸟的
+[06:04:28]: [Say] (KU_4R9OEa7U) furry是最会偷袭的猫咪: 雪球机把鸟冰住打死 然后让他绕到后面让猴子发大炮打死
+[06:05:22]: [Death Announcement] 风雨时兮 死亡，死因： 爬行的恐惧。她变成了一个令人毛骨悚然的鬼！
+[06:05:39]: [Resurrect Announcement] 风雨时兮 复活自 试金石.
+[06:05:49]: [Say] (KU_4R9OEa7U) furry是最会偷袭的猫咪: 那个海上放木板怎么弄的
+[06:06:13]: [Say] (KU_QSHhEhXG) 风雨时兮: 码头
+[06:09:13]: [Say] (KU_QSHhEhXG) 风雨时兮:  我做好了 1 个智囊团 准备建造。
+[06:10:17]: [Say] (KU_QSHhEhXG) 风雨时兮:  有人可以帮我制作 1 个码头套装吗?。
+[06:10:31]: [Say] (KU_QSHhEhXG) 风雨时兮: 怪了 不是智囊团
+[06:10:48]: [Say] (KU_QSHhEhXG) 风雨时兮:  我需要 1 棕榈松果树鳞片 来制造 码头套装。
+[06:11:02]: [Say] (KU_QSHhEhXG) 风雨时兮: 不会是找猴子王换吧
+[06:20:17]: [Say] (KU_QSHhEhXG) 风雨时兮: 马上变大
+[06:21:12]: [Say] (KU_4R9OEa7U) furry是最会偷袭的猫咪: 这个不能撞种子下来莫
+[06:21:25]: [Say] (KU_QSHhEhXG) 风雨时兮: 好像是不行吧
+[06:27:18]: [Say] (KU_4R9OEa7U) furry是最会偷袭的猫咪: 永亮的吗
+[06:27:33]: [Death Announcement] 风雨时兮 死亡，死因： 恐怖的巨喙。她变成了一个令人毛骨悚然的鬼！
+[06:27:46]: [Say] (KU_QSHhEhXG) 风雨时兮: 2天还是2.5来着 我家也记不清
+[06:28:01]: [Resurrect Announcement] 风雨时兮 复活自 天体传送门.
+[06:28:27]: [Say] (KU_4R9OEa7U) furry是最会偷袭的猫咪: 这树好像不挡雨
+[06:28:35]: [Say] (KU_QSHhEhXG) 风雨时兮: 35%
+[06:28:45]: [Say] (KU_QSHhEhXG) 风雨时兮: 主要是防雷防自燃
+[06:29:04]: [Say] (KU_QSHhEhXG) 风雨时兮: 和普通树挡雨效果一样
+[06:29:27]: [Say] (KU_QSHhEhXG) 风雨时兮:  我们拥有 2 个实用求雨仪式 在这个 书架, 这个拥有 100% 的耐久度。
+[06:29:35]: [Say] (KU_QSHhEhXG) 风雨时兮: 直接呼风唤雨
+[06:29:51]: [Say] (KU_QSHhEhXG) 风雨时兮: 夏天去沙漠都不用带护目镜
+[06:31:34]: [Say] (KU_QSHhEhXG) 风雨时兮: 我去搞个蓝图
+[06:32:37]: [Say] (KU_QSHhEhXG) 风雨时兮:  我们拥有 54 个香蕉 在这个 冰箱, 这个拥有 27% 的新鲜度。
+[06:40:32]: [Say] (KU_QSHhEhXG) 风雨时兮: 忘了带影切
+[06:46:12]: [Leave Announcement] furry是最会偷袭的猫咪
+[06:47:44]: [Say] (KU_QSHhEhXG) 风雨时兮:  我拥有 4 个cannonball蓝图。
+[06:47:45]: [Say] (KU_QSHhEhXG) 风雨时兮:  我拥有 4 个cannon kit蓝图。
+[06:47:47]: [Say] (KU_QSHhEhXG) 风雨时兮:  我拥有 4 个dock kit蓝图。
+[06:47:48]: [Say] (KU_QSHhEhXG) 风雨时兮:  我拥有 4 个dock piling蓝图。
+[06:49:32]: [Leave Announcement] 风雨时兮
+[00:24:56]: [Join Announcement] 风雨时兮
+[00:45:04]: [Leave Announcement] 风雨时兮
+[00:56:54]: [Join Announcement] 风雨时兮
+[02:41:07]: [Leave Announcement] 风雨时兮
+[02:45:09]: [Join Announcement] 风雨时兮
+[02:45:59]: [Leave Announcement] 风雨时兮
+[02:47:50]: [Join Announcement] 风雨时兮
+[03:11:53]: [Death Announcement] 风雨时兮 死亡，死因： the passage of time。她变成了一个令人毛骨悚然的鬼！
+[03:12:04]: [Resurrect Announcement] 风雨时兮 复活自 生命护符.
+[03:13:39]: [Death Announcement] 风雨时兮 死亡，死因： the passage of time。她变成了一个令人毛骨悚然的鬼！
+[03:15:55]: [Resurrect Announcement] 风雨时兮 复活自 天体传送门.
+[03:25:25]: [Death Announcement] 风雨时兮 死亡，死因： the passage of time。她变成了一个令人毛骨悚然的鬼！
+[03:28:11]: [Resurrect Announcement] 风雨时兮 复活自 天体传送门.
+[03:33:24]: [Leave Announcement] 风雨时兮
+[03:34:07]: [Join Announcement] 风雨时兮
+[03:45:13]: [Death Announcement] 风雨时兮 死亡，死因： the passage of time。她变成了一个令人毛骨悚然的鬼！
+[03:45:17]: [Resurrect Announcement] 风雨时兮 复活自 生命护符.
+[03:46:14]: [Death Announcement] 风雨时兮 死亡，死因： the passage of time。她变成了一个令人毛骨悚然的鬼！
+[03:46:27]: [Leave Announcement] 风雨时兮
+[13:12:02]: [Join Announcement] 艾克鲁普斯
+[13:39:37]: [Death Announcement] 艾克鲁普斯 死亡，死因： 蜘蛛战士。她变成了一个令人毛骨悚然的鬼！
+[13:40:01]: [Resurrect Announcement] 艾克鲁普斯 复活自 天体传送门.
+[13:40:42]: [Death Announcement] 艾克鲁普斯 死亡，死因： 黑暗。她变成了一个令人毛骨悚然的鬼！
+[13:41:48]: [Resurrect Announcement] 艾克鲁普斯 复活自 天体传送门.
+[13:56:03]: [Leave Announcement] 艾克鲁普斯
+[17:26:24]: [Join Announcement] 风雨时兮
+[17:29:03]: [Resurrect Announcement] 风雨时兮 复活自 天体传送门.
+[17:30:03]: [Death Announcement] 风雨时兮 死亡，死因： the passage of time。她变成了一个令人毛骨悚然的鬼！
+[17:30:47]: [Resurrect Announcement] 风雨时兮 复活自 天体传送门.
+[17:33:46]: [Leave Announcement] 风雨时兮
+[01:20:26]: [Join Announcement] 艾克鲁普斯
+[02:38:49]: [Death Announcement] 艾克鲁普斯 死亡，死因： 海葵。她变成了一个令人毛骨悚然的鬼！
+[02:42:03]: [Resurrect Announcement] 艾克鲁普斯 复活自 天体传送门.
+[02:50:56]: [Death Announcement] 艾克鲁普斯 死亡，死因： 海葵。她变成了一个令人毛骨悚然的鬼！
+[02:53:44]: [Resurrect Announcement] 艾克鲁普斯 复活自 天体传送门.
+[03:37:38]: [Death Announcement] 艾克鲁普斯 死亡，死因： 黑暗。她变成了一个令人毛骨悚然的鬼！
+[03:39:35]: [Resurrect Announcement] 艾克鲁普斯 复活自 天体传送门.
+[03:40:51]: [Death Announcement] 艾克鲁普斯 死亡，死因： 独眼巨鹿。她变成了一个令人毛骨悚然的鬼！
+[03:41:06]: [Resurrect Announcement] 艾克鲁普斯 复活自 天体传送门.
+[03:41:22]: [Leave Announcement] 艾克鲁普斯

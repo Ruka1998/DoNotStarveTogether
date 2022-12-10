@@ -1,88 +1,101 @@
 KLEI     1 return {
-  enabled_mods={
-    ["workshop-347079953"]={
-      configuration_options={ DFV_Language="EN", DFV_MinimalMode="default" },
-      enabled=true 
-    },
-    ["workshop-362175979"]={ configuration_options={ ["Draw over FoW"]="disabled" }, enabled=true },
-    ["workshop-378160973"]={
-      configuration_options={
-        ENABLEPINGS=true,
-        FIREOPTIONS=2,
-        OVERRIDEMODE=false,
-        SHAREMINIMAPPROGRESS=true,
-        SHOWFIREICONS=true,
-        SHOWPLAYERICONS=true,
-        SHOWPLAYERSOPTIONS=2 
+  ["enabled_mods"]={
+    ["workshop-1301033176"]={ ["configuration_options"]={ ["LANG"]="auto" }, ["enabled"]=true },
+    ["workshop-2881739960"]={
+      ["configuration_options"]={
+        ["BundleItems"]=false,
+        ["ChangeSkin"]=true,
+        ["Chest"]=true,
+        ["Digornot"]=false,
+        ["DragonflyChest"]=false,
+        ["Icebox"]=false,
+        ["SaltBox"]=false 
       },
-      enabled=true 
+      ["enabled"]=true 
+    },
+    ["workshop-347079953"]={
+      ["configuration_options"]={ ["DFV_Language"]="EN", ["DFV_MinimalMode"]="default" },
+      ["enabled"]=true 
+    },
+    ["workshop-362175979"]={ ["configuration_options"]={ ["Draw over FoW"]="disabled" }, ["enabled"]=true },
+    ["workshop-378160973"]={
+      ["configuration_options"]={
+        ["ENABLEPINGS"]=true,
+        ["FIREOPTIONS"]=2,
+        ["OVERRIDEMODE"]=false,
+        ["SHAREMINIMAPPROGRESS"]=true,
+        ["SHOWFIREICONS"]=true,
+        ["SHOWPLAYERICONS"]=true,
+        ["SHOWPLAYERSOPTIONS"]=2 
+      },
+      ["enabled"]=true 
     },
     ["workshop-666155465"]={
-      configuration_options={
-        chestB=-1,
-        chestG=-1,
-        chestR=-1,
-        display_hp=-1,
-        food_estimation=-1,
-        food_order=0,
-        food_style=0,
-        lang="auto",
-        show_food_units=-1,
-        show_uses=-1 
+      ["configuration_options"]={
+        ["chestB"]=-1,
+        ["chestG"]=-1,
+        ["chestR"]=-1,
+        ["display_hp"]=-1,
+        ["food_estimation"]=-1,
+        ["food_order"]=0,
+        ["food_style"]=0,
+        ["lang"]="auto",
+        ["show_food_units"]=-1,
+        ["show_uses"]=-1 
       },
-      enabled=true 
+      ["enabled"]=true 
     } 
   },
-  server={
-    clan={ admin=false, id="", only=false },
-    description="ARuanOff DS Server",
-    encode_user_path=true,
-    game_mode="survival",
-    max_players=6,
-    name="Ruan",
-    online_mode=true,
-    password="ruuuuuuuuuan",
-    playstyle="endless",
-    privacy_type=0,
-    pvp=false,
-    server_language="en" 
+  ["server"]={
+    ["clan"]={ ["admin"]=false, id="", ["only"]=false },
+    ["description"]="ARuanOff DS Server",
+    ["encode_user_path"]=true,
+    ["game_mode"]="survival",
+    ["max_players"]=6,
+    ["name"]="Ruan",
+    ["online_mode"]=true,
+    ["password"]="ruuuuuuuuuan",
+    ["playstyle"]="endless",
+    ["privacy_type"]=0,
+    ["pvp"]=false,
+    ["server_language"]="en" 
   },
-  session_id="281A1950B5DA82B3",
-  version=5,
-  world={
-    options={
-      background_node_range={ 0, 1 },
-      desc="Delve into the caves... together!",
-      hideminimap=false,
+  ["session_id"]="281A1950B5DA82B3",
+  ["version"]=5,
+  ["world"]={
+    ["options"]={
+      ["background_node_range"]={ 0, 1 },
+      ["desc"]="Delve into the caves... together!",
+      ["hideminimap"]=false,
       id="DST_CAVE",
-      location="cave",
-      max_playlist_position=999,
-      min_playlist_position=0,
-      name="The Caves",
-      numrandom_set_pieces=0,
-      override_level_string=false,
-      overrides={
-        basicresource_regrowth="always",
-        ghostsanitydrain="none",
-        layout_mode="RestrictNodesByKey",
-        portalresurection="always",
-        resettime="none",
-        roads="never",
-        season_start="default",
-        start_location="default",
-        task_set="cave_default",
-        world_size="default",
-        wormhole_prefab="tentacle_pillar" 
+      ["location"]="cave",
+      ["max_playlist_position"]=999,
+      ["min_playlist_position"]=0,
+      ["name"]="The Caves",
+      ["numrandom_set_pieces"]=0,
+      ["override_level_string"]=false,
+      ["overrides"]={
+        ["basicresource_regrowth"]="always",
+        ["ghostsanitydrain"]="none",
+        ["layout_mode"]="RestrictNodesByKey",
+        ["portalresurection"]="always",
+        ["resettime"]="none",
+        ["roads"]="never",
+        ["season_start"]="default",
+        ["start_location"]="default",
+        ["task_set"]="cave_default",
+        ["world_size"]="default",
+        ["wormhole_prefab"]="tentacle_pillar" 
       },
-      required_prefabs={ "multiplayer_portal" },
-      settings_desc="Delve into the caves... together!",
-      settings_id="DST_CAVE",
-      settings_name="The Caves",
-      substitutes={  },
-      version=4,
-      worldgen_desc="Delve into the caves... together!",
-      worldgen_id="DST_CAVE",
-      worldgen_name="The Caves" 
+      ["required_prefabs"]={ "multiplayer_portal" },
+      ["settings_desc"]="Delve into the caves... together!",
+      ["settings_id"]="DST_CAVE",
+      ["settings_name"]="The Caves",
+      ["substitutes"]={  },
+      ["version"]=4,
+      ["worldgen_desc"]="Delve into the caves... together!",
+      ["worldgen_id"]="DST_CAVE",
+      ["worldgen_name"]="The Caves" 
     } 
   } 
 }

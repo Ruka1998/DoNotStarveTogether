@@ -5,7 +5,6 @@
 	--Example: http://steamcommunity.com/sharedfiles/filedetails/?id=350811795
 	--ServerModSetup("350811795")
 
-ServerModSetup("347079953")
 ServerModSetup("362175979")
 ServerModSetup("378160973")
 ServerModSetup("666155465")
